@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<V.KsendzovCourse>
+	<SkillsOnTheCourses> 
+		<element>1.Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC.</element>
+		<element>2.What is the client-server architecture.</element>
+		<element>3.HTTP methods of requests to the server.</element>
+		<element>4.HTTP server response codes.</element>
+		<element>5.Structures of HTTP requests and responses.</element>
+		<element>6.What is JSON, XML. Their structure.</element>
+		<element>7.API testing via Postman (JS, API autotests).</element>
+		<element>8.Removing and reading logs from an external server.</element>
+		<element>9.Sniffing http web traffic via Charles and Fiddler.</element>
+		<element>10.Dev Tools of web browsers (Google Chrome, FireFox).</element>
+		<element>11.VPN. (How it works, why it is needed, how to use it, tool options).</element>
+		<element>12.Mobile testing.</element>
+		<element>13.Feature of iOS, Android, guidelines.</element>
+		<element>14.Build iOS apps on XCode. (Those who don't have a Mac computer will just take a look).</element>
+		<element>15.Build Android apps on Android Studio.</element>
+		<element>16.ADB (android device management).</element>
+		<element>17.Setting up proxy and vpn on iOS and Android.</element>
+		<element>18.Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</element>
+		<element>19.Linux command line (terminal) (copying, creating, viewing, moving files on servers without a graphical interface).</element>
+		<element>20.Basics of bash scripting, automation of routine tasks on the server.</element>
+		<element>21.Access to remote servers.</element>
+		<element>22.Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</element>
+		<element>23.Postgres database (installation, configuration and use).</element>
+		<element>24.Non-relational database Redis (installation, configuration and use).</element>
+		<element>25.Load testing in Jmeter.</element>
+		<element>26.Scrum development methodology.</element>
+		<element>27.Python. (Learning the basics. Creating a client server application).</element>
+	</SkillsOnTheCourses>
+</V.KsendzovCourse>
